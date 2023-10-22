@@ -7,7 +7,7 @@ The goal of this project is to perform data analytics on data (here used Uber-da
 
 # Architecture
 
-
+![Architectural Diagram](architecture.jpg)
 
 
 ## Technology Used
@@ -30,3 +30,4 @@ Here is the dataset used in the video - https://github.com/darshilparmar/uber-et
 
 
 ## Data Model
+![Data Model](data_model.jpeg)
